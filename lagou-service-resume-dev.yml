@@ -1,5 +1,5 @@
 mysql:
- url: dev-http://localhost:3306/0b900
+ url: dev-http://localhost:3306/0b999
 lagou:
-  message: Hello lagou.600
+  message: Hello lagou.666
 
